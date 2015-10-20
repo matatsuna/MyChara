@@ -23,7 +23,6 @@ class Mychara {
     endShape();
 
     //foot
-    //stroke(255,0,0);
     strokeWeight(1);
     rect(basex-50, basey+580, 10, 50);
     rect(basex+50, basey+580, 10, 50);
